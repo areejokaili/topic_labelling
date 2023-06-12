@@ -3,7 +3,7 @@ numpy
 scikit-learn==0.21.3
 pandas>=1.0.1
 sentencepiece==0.1.86
-transformers==2.8.0
+transformers==4.30.0
 bert-score==0.3.2
 nltk
 matplotlib
